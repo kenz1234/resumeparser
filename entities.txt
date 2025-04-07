@@ -1,0 +1,13 @@
+YEAR,EXPERIENCE,MAIL,TECH
+2018;2024;2014;2018;,10,kenzmsaju@gmail.com,python
+2020;2024;2018;2020;,6,priya.sharma@email.com,python
+2021;2025;2020;2021;,5,michael.lee@email.com,python
+2021;2025;2021;,4,david.kim@email.com,python
+2020;2021;2019;2020;,2,neha.patel@email.com,python
+2021;2022;2019;2021;2018;,4,alex.johnson@email.com,python
+2022;2024;2020;,4,jacobmathews@gmail.com,python
+2019;2024;2016;2019;,8,johndoe@beispiel.com,python
+2019;2024;2016;2019;,8,richardmille@gmail.com,
+2019;2024;2016;2019;,8,trumpilellallousa@gmail.com,
+2022;2024;,2,joepaul007456@gmail.com,python
+2018;2024;,6,dsivadev@gmail.com,python

@@ -1,0 +1,150 @@
+
+2025-03-25 20:22:43,207 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 20:22:46,054 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 20:22:46,254 - WARNING - User not found: richardmille@gmail.com
+2025-03-25 20:22:46,287 - WARNING - User not found: trumpilellallousa@gmail.com
+2025-03-25 20:22:49,193 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 20:22:52,069 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 20:22:55,036 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 20:22:55,252 - INFO - Email batch completed.
+2025-03-25 20:22:55,252 - INFO - Successful emails: 5
+2025-03-25 20:22:55,252 - INFO - Failed emails: 2
+2025-03-25 20:27:45,206 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 20:27:48,116 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 20:27:50,970 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 20:28:26,603 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 20:28:29,771 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 20:28:32,653 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 20:28:35,744 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 20:28:38,787 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 20:29:14,154 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 20:29:17,115 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 20:29:17,349 - WARNING - User not found: richardmille@gmail.com
+2025-03-25 20:29:17,350 - WARNING - User not found: trumpilellallousa@gmail.com
+2025-03-25 20:29:20,884 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 20:29:23,753 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 20:29:27,496 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 20:29:27,718 - INFO - Email batch completed.
+2025-03-25 20:29:27,718 - INFO - Successful emails: 5
+2025-03-25 20:29:27,718 - INFO - Failed emails: 2
+2025-03-25 20:37:47,459 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 20:37:50,308 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 20:37:50,542 - WARNING - User not found: richardmille@gmail.com
+2025-03-25 20:37:50,542 - WARNING - User not found: trumpilellallousa@gmail.com
+2025-03-25 20:37:53,251 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 20:37:56,152 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 20:37:59,025 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 20:37:59,243 - INFO - Email batch completed.
+2025-03-25 20:37:59,244 - INFO - Successful emails: 5
+2025-03-25 20:37:59,244 - INFO - Failed emails: 2
+2025-03-25 21:06:17,601 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 21:06:20,718 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 21:06:20,933 - WARNING - User not found: richardmille@gmail.com
+2025-03-25 21:06:20,934 - WARNING - User not found: trumpilellallousa@gmail.com
+2025-03-25 21:06:23,657 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 21:06:26,538 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 21:06:29,611 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 21:06:29,825 - INFO - Email batch completed.
+2025-03-25 21:06:29,825 - INFO - Successful emails: 5
+2025-03-25 21:06:29,825 - INFO - Failed emails: 2
+2025-03-25 21:15:08,531 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-03-25 21:15:11,462 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 21:15:14,276 - INFO - Email sent successfully to richardmille@gmail.com
+2025-03-25 21:15:17,246 - INFO - Email sent successfully to trumpilellallousa@gmail.com
+2025-03-25 21:15:20,362 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 21:15:23,324 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 21:15:26,262 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-03-25 21:15:26,473 - INFO - Email batch completed.
+2025-03-25 21:15:26,473 - INFO - Successful emails: 7
+2025-03-25 21:15:26,473 - INFO - Failed emails: 0
+2025-03-25 21:18:28,981 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-25 21:18:29,214 - WARNING - No user found for email: richardmille@gmail.com
+2025-03-25 21:18:29,216 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-03-25 21:18:31,936 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-25 21:18:35,080 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-25 21:18:35,297 - INFO - Email batch completed.
+2025-03-25 21:18:35,297 - INFO - Successful emails: 3
+2025-03-25 21:18:35,297 - INFO - Emails with no users: 2
+2025-03-25 21:18:35,297 - INFO - Failed emails: 0
+2025-03-26 10:51:49,115 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-26 10:51:49,351 - WARNING - No user found for email: richardmille@gmail.com
+2025-03-26 10:51:49,364 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-03-26 10:51:52,104 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-26 10:51:55,682 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-26 10:51:55,890 - INFO - Email batch completed.
+2025-03-26 10:51:55,890 - INFO - Successful emails: 3
+2025-03-26 10:51:55,890 - INFO - Failed emails: 0
+2025-03-26 11:56:19,182 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-26 11:56:22,864 - INFO - Email sent successfully to richardmille@gmail.com
+2025-03-26 11:56:26,759 - INFO - Email sent successfully to trumpilellallousa@gmail.com
+2025-03-26 11:56:27,064 - WARNING - No user found for email: jacobmathews@gmail.com
+2025-03-26 11:56:27,064 - WARNING - No user found for email: joepaul007456@gmail.com
+2025-03-26 11:56:27,073 - INFO - Email batch completed.
+2025-03-26 11:56:27,073 - INFO - Successful emails: 3
+2025-03-26 11:56:27,073 - INFO - Failed emails: 0
+2025-03-26 14:14:27,657 - WARNING - No user found for email: johndoe@beispiel.com
+2025-03-26 14:14:27,657 - WARNING - No user found for email: richardmille@gmail.com
+2025-03-26 14:14:27,657 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-03-26 14:14:27,667 - WARNING - No user found for email: jacobmathews@gmail.com
+2025-03-26 14:14:27,667 - WARNING - No user found for email: joepaul007456@gmail.com
+2025-03-26 14:14:27,667 - INFO - Email batch completed.
+2025-03-26 14:14:27,667 - INFO - Successful emails: 0
+2025-03-26 14:14:27,667 - INFO - Failed emails: 0
+2025-03-26 14:39:55,331 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-03-26 14:39:55,652 - WARNING - No user found for email: richardmille@gmail.com
+2025-03-26 14:39:55,652 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-03-26 14:39:59,319 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-03-26 14:40:04,433 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-03-26 14:40:04,658 - INFO - Email batch completed.
+2025-03-26 14:40:04,658 - INFO - Successful emails: 3
+2025-03-26 14:40:04,663 - INFO - Failed emails: 0
+2025-04-05 11:38:52,247 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-04-05 11:38:52,496 - WARNING - No user found for email: richardmille@gmail.com
+2025-04-05 11:38:52,497 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-04-05 11:38:55,547 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-04-05 11:38:58,741 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-04-05 11:38:58,957 - INFO - Email batch completed.
+2025-04-05 11:38:58,975 - INFO - Successful emails: 3
+2025-04-05 11:38:58,975 - INFO - Failed emails: 0
+2025-04-05 12:49:19,315 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-04-05 12:49:22,355 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-04-05 12:49:22,583 - WARNING - No user found for email: richardmille@gmail.com
+2025-04-05 12:49:22,584 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-04-05 12:49:25,795 - INFO - Email sent successfully to jacobmathews@gmail.com
+2025-04-05 12:49:29,297 - INFO - Email sent successfully to joepaul007456@gmail.com
+2025-04-05 12:49:29,528 - INFO - Email batch completed.
+2025-04-05 12:49:29,528 - INFO - Successful emails: 4
+2025-04-05 12:49:29,528 - INFO - Failed emails: 0
+2025-04-05 22:11:10,974 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-04-05 22:11:11,385 - WARNING - No user found for email: johndoe@beispiel.com
+2025-04-05 22:11:11,386 - WARNING - No user found for email: richardmille@gmail.com
+2025-04-05 22:11:11,387 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-04-05 22:11:11,388 - WARNING - No user found for email: joepaul007456@gmail.com
+2025-04-05 22:11:11,389 - WARNING - No user found for email: jacobmathews@gmail.com
+2025-04-05 22:11:11,389 - INFO - Email batch completed.
+2025-04-05 22:11:11,390 - INFO - Successful emails: 1
+2025-04-05 22:11:11,390 - INFO - Failed emails: 0
+2025-04-05 22:42:38,261 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-04-05 22:42:42,251 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-04-05 22:42:42,570 - WARNING - No user found for email: richardmille@gmail.com
+2025-04-05 22:42:42,570 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-04-05 22:42:42,570 - WARNING - No user found for email: joepaul007456@gmail.com
+2025-04-05 22:42:42,570 - WARNING - No user found for email: jacobmathews@gmail.com
+2025-04-05 22:42:42,570 - INFO - Email batch completed.
+2025-04-05 22:42:42,570 - INFO - Successful emails: 2
+2025-04-05 22:42:42,570 - INFO - Failed emails: 0
+2025-04-07 21:11:23,522 - INFO - Email sent successfully to kenzmsaju@gmail.com
+2025-04-07 21:11:26,440 - INFO - Email sent successfully to priya.sharma@email.com
+2025-04-07 21:11:26,657 - WARNING - No user found for email: michael.lee@email.com
+2025-04-07 21:11:26,657 - WARNING - No user found for email: david.kim@email.com
+2025-04-07 21:11:26,658 - WARNING - No user found for email: neha.patel@email.com
+2025-04-07 21:11:26,658 - WARNING - No user found for email: alex.johnson@email.com
+2025-04-07 21:11:26,659 - WARNING - No user found for email: jacobmathews@gmail.com
+2025-04-07 21:11:29,332 - INFO - Email sent successfully to johndoe@beispiel.com
+2025-04-07 21:11:29,547 - WARNING - No user found for email: richardmille@gmail.com
+2025-04-07 21:11:29,548 - WARNING - No user found for email: trumpilellallousa@gmail.com
+2025-04-07 21:11:29,550 - WARNING - No user found for email: joepaul007456@gmail.com
+2025-04-07 21:11:32,359 - INFO - Email sent successfully to dsivadev@gmail.com
+2025-04-07 21:11:32,621 - INFO - Email batch completed.
+2025-04-07 21:11:32,622 - INFO - Successful emails: 4
+2025-04-07 21:11:32,622 - INFO - Failed emails: 0

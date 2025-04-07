@@ -1,0 +1,108 @@
+
+
+
+
+Name: Neha Patel
+E-mail: neha.patel@email.com
+LinkedIn: LinkedIn.com/in/nehapatel
+Github: github.com/neha-python
+Summary
+Experienced Python developer with expertise in scripting, data processing and backend-
+development. Skilled in integrating Python with Java/JavaScript-based services.
+Skills
+• Python (Flask, Django, Pandas)
+• Java, JavaScript, SQL
+• Rest APIs, JSON, XML
+• AWS S3, EC2, Lambda
+• Git, Jira, Agile
+Experience
+Python developer-Databridge | Chicago, IL | Mar. 2020 - 2021
+• Data pipelines built with Python scripts and integrated with Java APIs.
+• Flask-based web services made for internal tools.
+• Automated data entry processes, reducing manual work
+Software Internal - Appify | Jun 2019 - Feb 2020
+• helped with the development of Django-based Adminportals.
+• Written Unitts and Debugde Backend problems.
+Course
+B.S. In Information Technology - University of Illinois -,
+
+
+
+
+
+
+
+Translated by "?" according to German - www.onlinedoctranslator.com
+Max Mustermann
+johndoe@biplay.com | (123) 456-7890 | LinkedIn: Linkedin.com/in/johndoe | Github:
+github.com/johndoe | City, state
+Professional summary
+Results-oriented Python developer with years of experience in software development, data analysis and
+Automation. Skillfully in writing clean, efficient codes, develop scalable applications and
+Integrate data -controlled solutions. Passion for problem solving and continuous learning.
+skills
+- Programming languages: Python, SQL, JavaScript
+- Frameworks and libraries: Django, Flask, Pandas, Numpy, Tensorflow
+- Tools & Technologies: Git, Docker, AWS, PostgreSQL, Rest-APIS
+- Development methods: Agile, Scrum, test driven development (TDD)
+- others: data analysis, web scraping, automation, machine learning
+Professional experience
+Python developer
+Mercedes Benz - City, State | 2019 - 2024
+- developed and maintained web applications with Python, Django and Flask and improved the
+Application performance by 30 %.
+- Designed and optimized SQL queries, which reduces the execution of database queries for me by 40 %.
+- Implementation of automation in data processing scripts, which saves manual work per week over 20 hours
+become.
+- used pandas and numpy for data analysis and provided knowledge that the decision -making process in
+Companies improved.
+So were engineer
+TCS - City, State | 2016 - 2019
+-Creates and manages python-based ETL pipelines for data warning solutions.
+-Developed web scraping scripts for collecting and processing realme data from several sources.
+- Applications provided on AWS using services such as EC2, S3 and Lambda for scalability.
+- Supported in the development of machine learning models for predictive analyzes with tensorflow.
+Education on
+Bachelor of Science in Computer Science
+Name of the university - final year
+Cer stays on
+- Python for data science and machine learning - [into the tu on],
+
+
+
+
+
+
+
+Translation from English to Japanese - www.onlinedoctranslator.com
+Shiva Lady
+dsivadev@gmail.com | (123) 456-7890 | LinkedIn: linkedin.com/in/sivaare | GitHub:
+github.com/sivaare | City, state
+Job overview
+A result-focused developer with many years of experience in the fields of software development, data analysis and automation. clean
+Efficient code creation, scalable application development, data-driven solutions
+We are good at integrating the I'm passionate about problem solving and ongoing learning.
+skill
+- Programming language: SQL, JavaScript, Python
+- Frameworks and libraries: Django, Flask, Pandas, NumPy, TensorFlow, etc.
+- Tools and Technology: Git, Docker, AWS, PostgreSQL, REST API
+- Development Methodology: Agile, Scrum, Test Driven Development (TDD)
+- Other: Data Analysis, Web Scraping, Automation, Machine Learning
+Specialized experience
+Python Developer
+Mercedes-Benz – Cities, States | 2018 – 2024
+- Develop and maintain web applications using Django and Flask to enable application performance.
+30% improvement.
+- Design and optimize SQL queries to reduce database query execution by 40%.
+- Implement automation in data processing scripts, saving over 20 hours of manual work each week
+Ta.
+- Use Pandas and NumPy for data analysis to provide insights to improve business decisions
+I did.
+Educaon
+Science of Computer Science University
+Name – Graduation year
+Certification
+- Python for data science and machine learning – [Ins tu on],
+
+
+

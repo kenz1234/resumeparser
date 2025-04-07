@@ -45,7 +45,6 @@ def select_training_dataset():
         try:
             df = pd.read_csv(temp_file.name)
             st.write(f"Training dataset preview ({len(df)} records):")
-            st.dataframe(df.head())
             return temp_file.name
         except Exception as e:
             st.error(f"Error reading CSV file: {e}")

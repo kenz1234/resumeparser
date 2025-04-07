@@ -1,0 +1,29 @@
+Jacob Mathew 
+jacobmathews@gmail.com | (123) 456-7890 | LinkedIn: linkedin.com/in/jacobmath | GitHub: 
+github.com/jacobmath | City, State 
+Professional Summary 
+Results-driven Developer with years of experience in soware development, data analysis, and 
+automa on. Adept at wri ng clean, efficient code, developing scalable applica ons, and integra ng 
+data-driven solu ons. Passionate about problem-solving and con nuous learning. 
+Skills 
+ Programming Languages: SQL, JavaScript,Python 
+ Frameworks & Libraries: Django, Flask, Pandas, NumPy, TensorFlow 
+ Tools & Technologies: Git, Docker, AWS, PostgreSQL, REST APIs 
+ Development Methodologies: Agile, Scrum, Test-Driven Development (TDD) 
+ Other: Data Analysis, Web Scraping, Automa on, Machine Learning 
+Professional Experience 
+Python Developer 
+Mercedes Benz – City, State | 2022 – 2024 
+ Developed and maintained web applica ons using Django, and Flask, improving applica on 
+performance by 30%. 
+ Designed and opmized SQL queries, reducing database query execu on me by 40%. 
+ Implemented automa on scripts for data processing, saving 20+ hours of manual work per 
+week. 
+ U lized Pandas and NumPy for data analysis, providing insights that improved business 
+decision-making. 
+Soware Engineer 
+TCS – City, State | 2020 – 2022 
+ Created and maintained ETL pipelines for data warehousing solu ons. 
+ Developed web scraping scripts to collect and process real-me data from mul ple sources. 
+ Deployed applica ons on AWS, u lizing services like EC2, S3, and Lambda for scalability. 
+ Assisted in machine learning model development for predic ve analy cs using TensorFlow. 

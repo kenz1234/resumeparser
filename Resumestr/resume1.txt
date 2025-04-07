@@ -1,0 +1,22 @@
+Naam: Neha Patel 
+E-mail: neha.patel@email.com 
+LinkedIn: linkedin.com/in/nehapatel 
+GitHub: github.com/neha-python 
+Samenvatting 
+Ervaren Python-ontwikkelaar met expertise in scripting, gegevensverwerking en backend-ontwikkeling. Bedreven in het integreren van Python met Java/JavaScript-gebaseerde services. 
+Vaardigheden 
+• Python (Flask, Django, Pandas) 
+• Java, JavaScript, SQL 
+• REST API's, JSON, XML 
+• AWS S3, EC2, Lambda 
+• Git, JIRA, Agile 
+Ervaring 
+Python-ontwikkelaar – DataBridge | Chicago, IL | mrt. 2020 – 2021
+• Gegevenspijplijnen gebouwd met Python-scripts en geïntegreerd met Java API's. 
+• Flask-gebaseerde webservices gemaakt voor interne tools. 
+• Geautomatiseerde data-invoerprocessen, waardoor handmatig werk werd verminderd 
+Software Intern – Appify | Jun 2019 – Feb 2020 
+• Hielp bij de ontwikkeling van Django-gebaseerde adminportals. 
+• Schreef unittests en debugde backend-problemen. 
+Opleiding 
+B.S. in informatietechnologie – University of Illinois –

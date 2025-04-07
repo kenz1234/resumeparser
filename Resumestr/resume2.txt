@@ -1,0 +1,24 @@
+• Name: Alex Johnson 
+Email: alex.johnson@email.com 
+LinkedIn: linkedin.com/in/alexjohnson 
+GitHub: github.com/alexdev 
+• Summary 
+• Full-stack developer with 5+ years of experience in designing and developing web 
+applications using Python (Django), Java (Spring Boot), and JavaScript (React.js). Skilled in 
+building scalable applications and leading cross-functional teams. 
+• Skills 
+• Python, Django, Flask 
+• Java, Spring Boot, Hibernate 
+• JavaScript, React.js, Node.js 
+• PostgreSQL, MongoDB, MySQL 
+• RESTful APIs, Docker, AWS 
+• Experience 
+• Full-Stack Developer – TechNova Inc. | San Francisco, CA | Mar 2021 – Mar 2022
+• Built end-to-end web applications using Django and React.js. 
+• Migrated legacy Java services to Spring Boot microservices. 
+• Improved system performance by 30% using optimized database queries. 
+• Software Engineer – ByteLogic | Remote | Jan 2019 – Feb 2021 
+• Developed a RESTful API in Flask for a mobile app backend. 
+• Created interactive UI components using React and Redux. 
+• Education 
+• B.S. in Computer Science – UC Berkeley – 2018

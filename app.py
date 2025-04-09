@@ -200,28 +200,7 @@ def display_translated_content():
 
 def main():
 
-    st.markdown("""
-        <style>
-        .main-header {
-            font-size: 36px;
-            font-weight: bold;
-            margin-bottom: 20px;
-            color: #1E3D59;
-        }
-        .step-header {
-            font-size: 24px;
-            margin-top: 30px;
-            margin-bottom: 10px;
-            color: #1E3D59;
-            border-bottom: 1px solid #1E3D59;
-            padding-bottom: 5px;
-        }
-        </style>
-    """, unsafe_allow_html=True)
     
-    st.markdown('<p class="main-header">Wayne Enterprises: Resume Sorting Process</p>', unsafe_allow_html=True)
-
-
     if 'upload_complete' not in st.session_state:
         st.session_state.upload_complete = False
     if 'conversion_complete' not in st.session_state:

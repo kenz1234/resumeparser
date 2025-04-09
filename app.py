@@ -8,24 +8,28 @@ import tempfile
 
 def select_resume_directory():
     """
-    Use Streamlit to select a directory containing resumes
+    Use Streamlit to upload resume files directly
     """
-    resume_dir = st.text_input("Enter full path to resume directory",
-                               placeholder="C:/Users/YourName/Resumes")
+    uploaded_files = st.file_uploader("Upload Resume Files", 
+                                      accept_multiple_files=True,
+                                      type=['pdf', 'docx', 'txt'])
+    
+    if uploaded_files:
+        st.write(f"Successfully uploaded {len(uploaded_files)} resume files:")
 
-    if resume_dir and os.path.isdir(resume_dir):
+        temp_dir = os.path.join(os.getcwd(), "temp_resumes")
+        os.makedirs(temp_dir, exist_ok=True)
+        
+        for uploaded_file in uploaded_files:
 
-        files = [f for f in os.listdir(resume_dir)
-                 if f.lower().endswith(('.pdf', '.docx','.txt'))]
+            st.write(f"- {uploaded_file.name}")
 
-        st.write(f"Found {len(files)} resume files:")
-        for file in files:
-            st.write(file)
-
-        return resume_dir
-    elif resume_dir:
-        st.error("Please enter a valid directory path")
-
+            file_path = os.path.join(temp_dir, uploaded_file.name)
+            with open(file_path, "wb") as f:
+                f.write(uploaded_file.getbuffer())
+        
+        return uploaded_files
+    
     return None
 
 

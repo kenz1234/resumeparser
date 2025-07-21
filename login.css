@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --primary-color: #ffffff3d;
+    --secondary-color: #ffffff;
+    --black-color: #ffffff;
+}
+
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.video-container video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.branding-logo {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    opacity: 60%;
+    z-index: 1000;
+  }
+
+  .branding-logo img {
+    height: 50px; 
+    width: auto;
+  }
+
+a{
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+.login_box{
+    position: relative;
+    width: 450px;
+    backdrop-filter: blur(30px);
+    border: 1px solid var(--primary-color);
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 7.5em 2.5em 4em 2.5em;
+    color: var(--secondary-color);
+    box-shadow: 0 0 10px  #00b3ff
+                0 0 20px  #00b3ff
+                0 0 40px  #00b3ff
+                0 0 80px  #00b3ff
+                0 0 120px  #00b3ff;
+    animation: animatelightbar 5s linear infinite;            
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+
+
+}
+.login_header{
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 140px;
+    height: 70px;
+    border-radius: 0 0 20px 20px;
+}
+
+.input-box{
+    position: relative;
+    margin: 20px 0;
+}
+.input-field{
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+    color: var(--secondary-color);
+    background: transparent;
+   
+    padding: 0 45px 0 25px;
+    border-radius: 30px;
+    outline: none;
+}
+.label{
+    position: absolute;
+    top: 15px;
+    left: 26px;
+    pointer-events: none;
+    transition: .5s;
+}
+.input-field:focus ~ label,
+.input-field:valid ~ label{
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    font-size: 14px;
+    background-color: var(--primary-color);
+    color: var(--black-color);
+    padding: 0 10px;
+    border-radius: 30px;
+}
+.fas{
+    position: absolute;
+    top: 18px;
+    right: 25px;
+    font-size: 20px;
+}
+.remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.input-submit{
+    width: 100%;
+    height: 50px;
+    background-color: #009dff;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.input-submit:hover{
+    background-color: var(--primary-color);
+}
+.register{
+    font-size: 14px;
+    text-align: center;
+}
+.register-submit{
+    width: 100%;
+    height: 50px;
+    background-color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.register-submit:hover{
+    background-color: var(--primary-color);
+}
+.register{
+    font-size: 14px;
+    text-align: center;
+}
+
+
+
+
+/* From Uiverse.io by cssbuttons-io */ 
+button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    padding: 0;
+    font-size: inherit;
+    font-family: inherit;
+    bottom: 230px;
+    left: 675px;
+   }
+   
+   button.learn-more {
+    width: 12rem;
+    height: auto;
+   }
+   
+   button.learn-more .circle {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: relative;
+    display: block;
+    margin: 0;
+    width: 3rem;
+    height: 3rem;
+    background: #ffffff;
+    border-radius: 1.625rem;
+   }
+   
+   button.learn-more .circle .icon {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: #000000;
+   }
+   
+   button.learn-more .circle .icon.arrow {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    left: 0.625rem;
+    width: 1.125rem;
+    height: 0.125rem;
+    background: none;
+   }
+   
+   button.learn-more .circle .icon.arrow::before {
+    position: absolute;
+    content: "";
+    top: -0.29rem;
+    right: 0.0625rem;
+    width: 0.625rem;
+    height: 0.625rem;
+    border-top: 0.125rem solid #000000;
+    border-right: 0.125rem solid #000000;
+    transform: rotate(45deg);
+   }
+   
+   button.learn-more .button-text {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.75rem 0;
+    margin: 0 0 0 1.85rem;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    text-transform: uppercase;
+   }
+   
+   button:hover .circle {
+    width: 100%;
+   }
+   
+   button:hover .circle .icon.arrow {
+    background: #000000;
+    transform: translate(1rem, 0);
+   }
+   
+   button:hover .button-text {
+    color: #000000;
+   }
